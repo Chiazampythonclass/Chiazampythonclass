@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 MY CYBESECUERITY PROJECTS
 https://github.com/Chiazampythonclass/Chiazampythonclass
+TRY OUT SOME PROJECTS FROM MY CODEPATH OBSVER ACCESS
+https://courses.codepath.org/courses/cyb102/unit/10#!projects
