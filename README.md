@@ -15,5 +15,19 @@ You can click the Preview link to take a look at your changes.
 --->
 MY CYBESECUERITY PROJECTS
 https://github.com/Chiazampythonclass/Chiazampythonclass
-TRY OUT SOME PROJECTS FROM MY CODEPATH OBSVER ACCESS
-https://courses.codepath.org/courses/cyb102/unit/10#!projects
+
+MY CODEPATH PROJECTS
+
+PENETRATION TESTING PROJECTS
+
+
+WEB APPLICATION PROJECTS
+
+
+NETWORKING PROJECTS
+
+
+CYBERSECUIRTY IN A NUTSHELL(  LEARN CYBERSECURTY IN 20 MINUTES)
+
+
+CYBERSECURITY AWARNESS
