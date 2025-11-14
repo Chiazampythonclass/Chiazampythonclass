@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gift 
+- 👋 Hi, I’m Gift Ihediwa , Cybersecurity Professional, Pen Tester, Systems Auditor, Linux OS, Windows OS 
 - 👀 I’m interested in becoming a better programmer.
 - - 🌱 lets's learn python together
 - let's learn cybersecurity
